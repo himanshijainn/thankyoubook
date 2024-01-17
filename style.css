@@ -20,7 +20,7 @@ body {
   min-height: 700px;
   background-image: url("hehe.jpg");
   background-repeat: no-repeat;
-  background-size: auto;
+  background-size: 300px 100px;
   position: relative;
 }
 #botao1 {
