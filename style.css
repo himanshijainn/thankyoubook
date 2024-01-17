@@ -18,7 +18,9 @@ body {
   height: 100vh;
   min-width: 900px;
   min-height: 700px;
-  background-image: url("hehe.jpg");;
+  background-image: url("hehe.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
   position: relative;
 }
 #botao1 {
