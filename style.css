@@ -1162,14 +1162,11 @@ body {
 .cover-front:nth-child(1) {
   text-align: center;
   background: hsla(148, 89%, 78%, 1);
-
-background: linear-gradient(90deg, hsla(148, 89%, 78%, 1) 0%, hsla(210, 81%, 22%, 1) 100%);
-
-background: -moz-linear-gradient(90deg, hsla(148, 89%, 78%, 1) 0%, hsla(210, 81%, 22%, 1) 100%);
-
-background: -webkit-linear-gradient(90deg, hsla(148, 89%, 78%, 1) 0%, hsla(210, 81%, 22%, 1) 100%);
-
-filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#95F9C3", endColorstr="#0B3866", GradientType=1 );
+  background: linear-gradient(90deg, hsla(148, 89%, 78%, 1) 0%, hsla(210, 81%, 22%, 1) 100%);
+  background: -moz-linear-gradient(90deg, hsla(148, 89%, 78%, 1) 0%, hsla(210, 81%, 22%, 1) 100%);
+  background: -webkit-linear-gradient(90deg, hsla(148, 89%, 78%, 1) 0%, hsla(210, 81%, 22%, 1) 100%);
+  filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#95F9C3", endColorstr="#0B3866", GradientType=1 );
+}
  
 .cover-front:nth-child(1) h1 {
   font-family: "Lora", serif;
