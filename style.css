@@ -1184,7 +1184,7 @@ body {
 }
 .cover-front:nth-child(1) .hat {
   font-size: 100px;
-  color: white;
+  color: #134a78;
   position: relative;
   top: 3%;
 }
